@@ -4,7 +4,7 @@
 - Find the ____
 - Choose variable names which are meaningful for this problem, like Area, Width, etc.
 
-## Program Data ##:
+## Program Data:
 | C1  | C2 | C3 |
 | ----  | ---- | ---- |
 | Royale  | 286 | 9 |
@@ -12,12 +12,12 @@
 | Pipe  | 361 | 18 |
 | Badwagon | 161 | 11 |
 
-### Statements Required: 
+## Statements Required: 
 - System.out
 - Variable Assignment
 - ...
 
-### Sample Output:
+## Sample Output:
 >Some
 >
 >Out
